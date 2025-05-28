@@ -22,10 +22,5 @@ This project analyzes multi-season football player injury data to uncover patter
 - Injury frequency peaks in the winter season
 - Age group 28–32 shows increased injury risk
 
-## 📁 Project Structure
-- `notebooks/`: Jupyter Notebook with full analysis
-- `data/`: Cleaned dataset (or structure/sample)
-- `reports/`: Final report or paper
-- `visuals/`: Charts and screenshots
 
 
